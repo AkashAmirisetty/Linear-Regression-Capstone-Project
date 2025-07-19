@@ -12,7 +12,7 @@ This repository presents my capstone project focused on applying **Linear Regres
 ├── USA_Housing.csv                      # Housing dataset for regression analysis
 ├── Ecommerce Customers                  # Dataset for predicting customer yearly spending
 
-
+```
 Project Overview
 This project involves solving regression problems using scikit-learn's linear regression model. It includes:
 
