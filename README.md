@@ -13,7 +13,8 @@ This repository presents my capstone project focused on applying **Linear Regres
 ├── Ecommerce Customers                  # Dataset for predicting customer yearly spending
 
 ```
-Project Overview
+# Project Overview 
+
 This project involves solving regression problems using scikit-learn's linear regression model. It includes:
 
 Cleaning and preprocessing the data
@@ -28,7 +29,8 @@ Drawing business insights from the results
 
 
 
-Datasets
+# Datasets
+
 1. USA_Housing.csv
 Features: Avg. Area Income, Avg. Area House Age, Number of Rooms, etc.
 
@@ -43,23 +45,17 @@ Target: Yearly Amount Spent
 
 Objective: Help an e-commerce business improve marketing strategy
 
-Tools & Libraries
+# Tools & Libraries
+
 Python
-
 Pandas, NumPy
-
 Matplotlib, Seaborn
-
 scikit-learn
-
 Jupyter Notebook
 
+# Results
 
-Results
 The notebooks include:
-
 Visual data exploration (pair plots, heatmaps, regression lines)
-
 Feature-target relationships
-
 Model summaries and error metrics
